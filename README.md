@@ -21,3 +21,40 @@
   <h6>Linguagem com baixo nível de experiência:<img align="center" alt="mrNS1S-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><h6/>
   <h6>Linguagem com baixo médio de experiência: 
     <img align="center" alt="mrNS1S-HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img align="center"mrNS1S-CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+
+
+
+
+
+
+
+
+arquive in english
+
+"* 🔭 I am currently unemployed, however, I am looking for a job in the software programming field...
+
+🌱 I am currently learning JavaScript and gradually delving into this language...
+
+👯 I am looking to participate in projects related to what I am currently studying, aiming to improve my knowledge in this area...
+
+🤔 I am seeking help with my studies on JavaScript or a group willing to study the same...
+
+📫 One of the ways to reach me is through my primary email, which is: feelpzin50@gmail.com
+
+⚡ I am open to learning new technologies, as I have an affinity for constant knowledge-seeking.
+
+Languages:
+<div><style="display: inline_block"><br>
+  <h6>Languages with low level of experience:<img align="center" alt="mrNS1S-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><h6/>
+  <h6>Languages with medium level of experience: 
+    <img align="center" alt="mrNS1S-HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img align="center"mrNS1S-CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">"
+
+
+
+
+
+
+
+
+
