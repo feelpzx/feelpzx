@@ -5,6 +5,7 @@
 
 ### 💬 Um pouco sobre mim 💬
 
+
 * 🔭 Atualmente encontro-me desempregado, entretanto, a procura de um emprego na área da programação de software...
 
 * 🌱 Atualmente estou aprendendo JavaScript e me aprofundando aos poucos nesta linguagem...
@@ -22,6 +23,12 @@
   <h6>Linguagem com baixo médio de experiência: 
     <img align="center" alt="mrNS1S-HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img align="center"mrNS1S-CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
+
+
+
+
+
+.
 
 
 
